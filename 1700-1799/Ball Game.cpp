@@ -1,7 +1,7 @@
 /*
 CodeChef Link               : https://www.codechef.com/problems/BALL_GAME
 CodeChef Problem difficulty : 1736
-CodeChef Related Topic      : Array
+CodeChef Related Topic      : Array, Pair, Sort
 */
 //------------------------------Solution - in - C++ -----------------------------------------------------------
 #include<bits/stdc++.h>
